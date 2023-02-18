@@ -110,3 +110,9 @@ contributing.
 - [Lucene Issue Tracker](https://issues.apache.org/jira/browse/LUCENE)
 - [Solr Issue Tracker](https://issues.apache.org/jira/browse/SOLR)
 - IRC: `#solr` and `#solr-dev` on freenode.net
+
+## 源码构建 
+下载的ivy所有文件复制到 idea自带的ant目录下
+```
+cp -r /Users/yangsongbai/apps/ivy/apache-ivy-2.4.0/ /Applications/IntelliJ IDEA.app/Contents/lib/
+```
